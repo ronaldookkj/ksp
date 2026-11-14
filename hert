@@ -1,8 +1,3 @@
--- VICK Fusion | AutoFarm original obfuscado + Great Job + Barnaby V19 + Panic Elevator
--- Autofarm original mantido exatamente como recebido, credito: @vearytry
--- Great Job: DELETE | Barnaby: B | Auto Elevador: RightCtrl+E | TP teste: RightCtrl+T
--- O autofarm obfuscado e codigo de terceiro; a integracao nao comprova sua seguranca.
-
 local FusionEnv = getgenv and getgenv() or _G
 local FusionKey = "__VICK_FUSION_20261114_V1"
 local PreviousFusion = FusionEnv[FusionKey]
